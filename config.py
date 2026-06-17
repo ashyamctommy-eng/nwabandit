@@ -7,7 +7,7 @@ All tunables in one place. Override via env vars for production.
 import os
 
 # ── Telegram Bot ────────────────────────────────────────────────────────────────
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8710611057:AAH1zHaF7-MR8ETuT5P5omdMoJw86TjIyGQ")
 
 # ── Channel / Group Membership Gate ────────────────────────────────────────────
 # Users MUST join BOTH before using any command.
